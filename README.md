@@ -34,6 +34,7 @@ Use the [Theme Converter for Visual Studio](https://github.com/microsoft/theme-c
 
 ```powershell
 $msbuild = "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\MSBuild.exe"
+
 git clone "https://github.com/microsoft/theme-converter-for-vs.git"
 cd "theme-converter-for-vs"
 & $msbuild .\ThemeConverter\ThemeConverter.csproj -Target:Rebuild -Property:Configuration=Release
