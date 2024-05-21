@@ -4,6 +4,8 @@ Pronunciation: _fluorescent_
 
 A flourescent-on-black color theme extension for Visual Studio (VS) based on FluoroMachine and SynthWave'84.
 
+![screenshot](./media/example.png)
+
 ## Installation
 
 ```powershell
