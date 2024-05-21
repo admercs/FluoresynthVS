@@ -1,6 +1,6 @@
 # Fluoresynth color theme for Microsoft Visual Studio
 
-Pronunciation: _fluorescent_
+Pronunciation: _fluorescenth_
 
 A flourescent-on-black color theme extension for Visual Studio (VS) based on FluoroMachine and SynthWave'84.
 
